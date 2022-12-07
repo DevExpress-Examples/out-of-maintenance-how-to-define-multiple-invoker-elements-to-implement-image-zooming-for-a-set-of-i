@@ -2,9 +2,8 @@
 Imports System.Collections.Generic
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxClasses
-Imports DevExpress.Web.ASPxClasses.Internal
-Imports DevExpress.Web.ASPxDataView
+Imports DevExpress.Web
+Imports DevExpress.Web.Internal
 
 Partial Public Class Examples_Default2
 	Inherits System.Web.UI.Page

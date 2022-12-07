@@ -1,9 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxClasses;
-using DevExpress.Web.ASPxClasses.Internal;
-using DevExpress.Web.ASPxDataView;
+using DevExpress.Web;
+using DevExpress.Web.Internal;
 
 public partial class Examples_Default2 : System.Web.UI.Page {
     protected void galleryDV_CustomJSProperties(object sender, CustomJSPropertiesEventArgs e) {
