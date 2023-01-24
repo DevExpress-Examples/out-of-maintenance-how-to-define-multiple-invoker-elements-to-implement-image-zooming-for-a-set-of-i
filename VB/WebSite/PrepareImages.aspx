@@ -1,7 +1,7 @@
 ﻿'INSTANT VB NOTE: This code snippet uses implicit typing. You will need to set 'Option Infer On' in the VB file or set 'Option Infer' at the project level:
 
 <%@ Page Language="vb" AutoEventWireup="true" CodeFile="PrepareImages.aspx.vb" Inherits="scripts_Default" %>
-<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web"
 	TagPrefix="dx" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
